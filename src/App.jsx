@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import './App.css';
 import { useState, useCallback, useEffect, useRef } from 'react';
 
 function App() {
